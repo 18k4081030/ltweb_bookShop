@@ -1,0 +1,12 @@
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\BookShop.Shared.deps.json
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\BookShop.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\BookShop.Shared.pdb
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.csproj.AssemblyReference.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.AssemblyInfoInputs.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.AssemblyInfo.cs
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.csproj.CoreCompileInputs.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\refint\BookShop.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\BookShop.Shared.pdb
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\ref\BookShop.Shared.dll

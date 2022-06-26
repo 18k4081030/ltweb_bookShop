@@ -1,0 +1,6 @@
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.csproj.AssemblyReference.cache
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.AssemblyInfoInputs.cache
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.AssemblyInfo.cs
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.csproj.CoreCompileInputs.cache
+D:\Pizza\PizzaPlace_2022\Client\obj\Debug\net6.0\BookShop.Client.MvcApplicationPartsAssemblyInfo.cache

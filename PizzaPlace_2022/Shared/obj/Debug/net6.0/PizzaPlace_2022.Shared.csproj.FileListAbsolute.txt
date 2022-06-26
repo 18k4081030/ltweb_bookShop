@@ -1,0 +1,36 @@
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.deps.json
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.dll
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.dll
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\refint\PizzaPlace_2022.Shared.dll
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+C:\Users\LENOVO\Downloads\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022-Chapter4-2\PizzaPlace_2022\Shared\obj\Debug\net6.0\ref\PizzaPlace_2022.Shared.dll
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.deps.json
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.dll
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.AssemblyReference.cache
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfoInputs.cache
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfo.cs
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.dll
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\refint\PizzaPlace_2022.Shared.dll
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+C:\Users\Le Ba Quoc Truong\source\repos\Pizza\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\ref\PizzaPlace_2022.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.deps.json
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\bin\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.AssemblyReference.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfoInputs.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.AssemblyInfo.cs
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.csproj.CoreCompileInputs.cache
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\refint\PizzaPlace_2022.Shared.dll
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\PizzaPlace_2022.Shared.pdb
+D:\Pizza\PizzaPlace_2022\Shared\obj\Debug\net6.0\ref\PizzaPlace_2022.Shared.dll
